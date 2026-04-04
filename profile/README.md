@@ -90,7 +90,7 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,php,laravel,js,ts,react,angular,vue,nodejs,express,cs,dotnet,go,html,css,tailwind,bootstrap,mysql,postgres,mongodb,redis,elasticsearch,firebase,git,github,docker,kubernetes,linux,windows,nginx,aws,azure,gcp,terraform,jenkins,grafana,prometheus,flutter,dart,bash,powershell,npm,yarn,webpack,vite,graphql,rest,websocket,figma,vscode,postman,n8n&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,php,laravel,js,ts,react,angular,vue,nodejs,express,cs,dotnet,go,html,css,tailwind,bootstrap,mysql,postgres,mongodb,redis,elasticsearch,firebase,git,github,docker,kubernetes,linux,windows,nginx,aws,azure,gcp,terraform,jenkins,grafana,prometheus,flutter,dart,bash,powershell,npm,yarn,webpack,vite,graphql,figma,vscode,postman,n8n&perline=14" />
   </a>
 </p>
 
@@ -233,10 +233,6 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
   <img alt="Email" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://tst-solutions.netlify.app/" target="_blank">
-  <img alt="Website" width="45" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg"/>
-</a>
-
 </p>
 
 ---
