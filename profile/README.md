@@ -1,4 +1,4 @@
-# TST Solutions
+# 🟢 TST SOLUTIONS - Te Solucionamos Todo
 
 <div align="center">
 
@@ -14,16 +14,6 @@
 </div>
 
 ---
-
-```
-████████╗██╗██╗  ██╗    ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
-╚══██╔══╝██║╚██╗██╔╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
-   ██║   ██║ ╚███╔╝        ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
-   ██║   ██║ ██╔██╗        ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
-   ██║   ██║██╔╝ ██╗       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-   ╚═╝   ╚═╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-                                     S O L U C I O N A M O S   T O D O
-```
 
 <p align="center">
   <b>ALTA TECNOLOGÍA EN TUS MANOS</b><br/>
@@ -251,13 +241,28 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 
 ---
 
+## 📍 Location & Hours
+
+<div align="center">
+   
+| 📍 Address | ⏰ Business Hours |
+|:----------:|:-----------------:|
+| Cumbayá, García Moreno E1-35 y Chimborazo, Quito - Ecuador | **Mon–Fri:** 08:00 – 18:00 |
+| | **Saturdays:** 09:00 – 13:00 |
+| | **24/7 Emergency Support** |
+
+</div>
+
+
 <div align="center">
 
 ### 🏢 TST Solutions - Te Solucionamos Todo
 
 **Soluciones Tecnológicas Integrales · ALTA TECNOLOGÍA EN TUS MANOS**
 
-*Innovation is transforming knowledge into impact. We deliver technology that scales.*
+*Technology that works. Solutions that scale.*
+
+</div>
 
 ---
 
