@@ -15,16 +15,6 @@
 
 ---
 
-```
-████████╗██╗██╗  ██╗    ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
-╚══██╔══╝██║╚██╗██╔╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
-   ██║   ██║ ╚███╔╝        ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
-   ██║   ██║ ██╔██╗        ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
-   ██║   ██║██╔╝ ██╗       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-   ╚═╝   ╚═╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-                                     S O L U C I O N A M O S   T O D O
-```
-
 <p align="center">
   <b>ALTA TECNOLOGÍA EN TUS MANOS</b><br/>
   <sub>High-Performance Technology Solutions & Digital Transformation</sub>
@@ -253,12 +243,15 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 
 ## 📍 Location & Hours
 
+<div align="center">
+   
 | 📍 Address | ⏰ Business Hours |
 |:----------:|:-----------------:|
 | Cumbayá, García Moreno E1-35 y Chimborazo, Quito - Ecuador | **Mon–Fri:** 08:00 – 18:00 |
 | | **Saturdays:** 09:00 – 13:00 |
 | | **24/7 Emergency Support** |
 
+</div>
 ---
 
 <div align="center">
