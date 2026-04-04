@@ -192,7 +192,7 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 
 ## 🤝 Trusted Partners & Clients
 
-<p align="center">
+<div align="center">
 
 | Client | Industry | Client | Industry |
 |:------:|:--------:|:------:|:--------:|
@@ -202,7 +202,7 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 | **Grafi Text** | Textile Industry | **Integracorp** | Corporate Integration |
 | **Jaya Automotriz** | Automotive Services | | |
 
-</p>
+</div>
 
 ---
 
