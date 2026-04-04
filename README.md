@@ -252,7 +252,7 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 | | **24/7 Emergency Support** |
 
 </div>
----
+
 
 <div align="center">
 
@@ -261,6 +261,8 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 **Soluciones Tecnológicas Integrales · ALTA TECNOLOGÍA EN TUS MANOS**
 
 *Technology that works. Solutions that scale.*
+
+</div>
 
 ---
 
