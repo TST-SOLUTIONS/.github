@@ -8,9 +8,9 @@
 
 ## TE SOLUCIONAMOS TODO | Digital Transformation · AI Automation · Industrial Engineering
 
-[![Website](https://img.shields.io/badge/🌐-tst--solutions.netlify.app-0057B8?style=for-the-badge&logo=vercel&logoColor=white)](https://tst-solutions.netlify.app/)
+[![Website](https://img.shields.io/badge/🌐-tstsolutionsec.com-0057B8?style=for-the-badge&logo=vercel&logoColor=white)](https://tstsolutionsec.com/)
 [![WhatsApp](https://img.shields.io/badge/📱-+593%2099%20796%202747-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593997962747)
-[![Email](https://img.shields.io/badge/📧-tstsolutions1@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:tstsolutions1@outlook.com)
+[![Email](https://img.shields.io/badge/📧-estebanharo@tstsolutionsec.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:estebanharo@tstsolutionsec.com)
 [![Location](https://img.shields.io/badge/📍-Quito,%20Ecuador-0057B8?style=for-the-badge)]()
 
 </div>
@@ -216,8 +216,8 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 |:-------:|:-------:|:-------------:|
 | 📱 **WhatsApp** | [+593 99 796 2747](https://wa.me/593997962747) | Immediate |
 | 💬 **Telegram** | [@593997962747](https://t.me/593997962747) | Immediate |
-| 📧 **Email** | [tstsolutions1@outlook.com](mailto:tstsolutions1@outlook.com) | 24 hours |
-| 🌐 **Website** | [tst-solutions.netlify.app](https://tst-solutions.netlify.app/) | 24/7 |
+| 📧 **Email** | [estebanharo@tstsolutionsec.com](mailto:estebanharo@tstsolutionsec.com) | 24 hours |
+| 🌐 **Website** | [tstsolutionsec.com](https://tstsolutionsec.com/) | 24/7 |
 
 </div>
 
@@ -231,7 +231,7 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
   <img alt="Telegram" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:tstsolutions1@outlook.com">
+<a href="mailto:estebanharo@tstsolutionsec.com">
   <img alt="Email" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
 </a>
 &nbsp;&nbsp;
@@ -264,6 +264,6 @@ With over **12 years of experience** and **48+ successful projects**, we serve a
 
 ---
 
-<sub>© 2026 TST Solutions - Quito, Ecuador | Tel: +593 99 796 2747 | tstsolutions1@outlook.com</sub>
+<sub>© 2026 TST Solutions - Quito, Ecuador | Tel: +593 99 796 2747 | estebanharo@tstsolutionsec.com</sub>
 
 </div>
