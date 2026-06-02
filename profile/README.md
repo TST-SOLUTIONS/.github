@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TST-SOLUTIONS/.github/main/profile/logo.png" alt="TST Solutions" width="140" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/TST-SOLUTIONS/.github/main/profile/logo.png" alt="TST Solutions" width="160"/>
 
 # 🟢 TST SOLUTIONS
 
